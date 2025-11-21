@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Keep .gitignore itself
+!.gitignore
+
+# Keep specific files
+!config.json3438
+
+# Keep a folder
+!src34343/
+
+# Keep specific file types
+!*.md34
+!*.txt4343
