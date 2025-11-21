@@ -6,6 +6,7 @@
 
 # Keep specific files
 !config.json3438
+!ksfnk.txt
 
 # Keep a folder
 !src34343/
