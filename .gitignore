@@ -8,8 +8,12 @@
 !config.json3438
 
 # Keep a folder
-!src34343/
+!RTOS_nov20
+#!temp1/
 
 # Keep specific file types
 !*.md34
 !*.txt4343
+
+# keep specific
+#!temp1/.gitignore

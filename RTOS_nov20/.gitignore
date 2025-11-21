@@ -9,6 +9,8 @@
 
 # Keep a folder
 !src34343/
+!temp1/
+!Core/
 
 # Keep specific file types
 !*.md34

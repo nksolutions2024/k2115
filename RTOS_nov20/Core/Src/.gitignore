@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Keep .gitignore itself
+!.gitignore
+
+# Keep specific files
+!main.c
+
